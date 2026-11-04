@@ -1,0 +1,79 @@
+PUBLIC EPISODE CATALOGUE AND CODEBOOK
+When Assurance Work Displaces the Task
+Song Luo | Independent Researcher | 4 November 2026
+
+Scope
+The CSV contains 32 reanalysed core episodes (C01-C32) from 20 conversations,
+plus three purposive contrast episodes (N01-N03) from three additional
+conversations. One episode is a distinguishable task-and-correction sequence.
+Entries from the same conversation are dependent; these are not independent
+failures, model runs, or experimental replicates.
+
+Fields
+episode_id: public identifier retained across the descriptive report and paper.
+conversation_alias: non-identifying group label for records in the same chat.
+context: generalized task type, with identifying project details removed.
+observation: paraphrased activity visible in the retained evidence.
+correction: user correction, revised instruction, or subsequent change of route.
+recorded_outcome: strongest outcome supported; proposed and reported actions
+  are not automatically treated as independently verified completion.
+evidence_basis: what kind of retained evidence supports the entry.
+interpretive_limit: an alternative explanation, uncertainty, or boundary that
+  prevents overreading the episode.
+
+Evidence notation
+M = messages, including original user requirements and agent responses.
+C = a contemporaneous close-out report of execution; still an agent report.
+A = a retained artifact inspected for this investigation. The artifact may
+    itself have been produced in AI-assisted work; this is not an external audit.
+
+Working definitions
+Overdefensiveness: risk handling, confirmation, protection, or qualification
+that exceeds the demands of the current task, actual authorization, and concrete
+risk. A valid safeguard is not excess solely because it is inconvenient.
+
+Overengineering: structure, functionality, process, or verification whose
+additional cost is not adequately connected to a present requirement, existing
+contract, or observed failure. Size and number of calls are insufficient alone.
+
+Adjacent failures: inaccurate status, scope drift, premature stopping, omitted
+required review, weak synthesis, or unsupported attribution of benefit. These
+may coexist with excess but are not interchangeable with it.
+
+Interpretation procedure
+Read the requested result and relevant authorization before judging an addition.
+Distinguish a proposal, authorization, execution report, observed artifact, and
+user acceptance. Ask what the addition changes for the required result, and
+whether removing it would violate a requirement. Preserve justified safeguards
+and unresolved judgments. An apology or a complaint alone is not a verdict.
+
+Reanalysis differences
+The manuscript does not carry forward a binary failure count from the earlier
+descriptive report. In C06 the initial small governance tool was requested; the
+later proposed expansion was reconsidered. In C19 personal reading was first
+approved and then replaced by explicitly requested model review. These are
+important authorization changes. Other entries retain neighboring failures and
+boundary cases, including C12, C16, C22, C27, C28, and C32.
+
+The earlier inventory-based candidate count was 344. The saved searchable
+message extracts used for the manuscript contain 343 distinct conversation IDs
+(315 from session extraction and 28 from database recovery, without overlap).
+Neither is a prevalence denominator. The initial inventory also contains agent
+and approval sessions; session type alone does not establish a human task.
+
+Contrast selection
+The three additional entries were purposively selected outside the 20 core
+conversations for directly inspectable request/response boundaries. Short
+scripted research assignments were excluded from that contrast selection.
+They are not matched controls or a systematic sample of normal work. Their
+format compliance does not establish source accuracy, professional validity,
+user acceptance, or an overall task success rate.
+
+Privacy and availability
+All public reconstructions are paraphrases, not verbatim quotations. The author
+is the participant and is identified; individual task and third-party details
+are deidentified. Raw logs, exact dates, paths, private identifiers, credentials,
+and the source crosswalk are withheld. Access to private records is not promised.
+The catalogue supports scrutiny of the published account, not full independent
+reproduction of raw-data coding. No independent human coding or new controlled
+experiment was performed. Codex assisted analysis and writing.

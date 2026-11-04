@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the preprint using the preferred citation below."
+title: "When Assurance Work Displaces the Task: A Retrospective Case Study of Overdefensiveness and Overengineering in AI Agent Use"
+authors:
+  - family-names: Luo
+    given-names: Song
+    affiliation: Independent Researcher
+version: "1.0"
+date-released: 2026-11-04
+doi: 10.5281/zenodo.23940714
+url: https://zenodo.org/records/23940714
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "When Assurance Work Displaces the Task: A Retrospective Case Study of Overdefensiveness and Overengineering in AI Agent Use"
+  authors:
+    - family-names: Luo
+      given-names: Song
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.23940714
+  url: https://doi.org/10.5281/zenodo.23940714
+  notes: "Research preprint, version 1.0; not peer reviewed."
